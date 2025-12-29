@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate software developer focused on building real-world, scalable applications using modern technologies. My work spans full-stack development (MERN), backend engineering (Python, Go, Java/Spring Boot), and applied machine learning, with projects ranging from real-time chat apps and eCommerce platforms to security-focused ML systems like malicious URL detection. I enjoy clean architecture, performance-driven design, and solving complex problems through practical, production-ready code while continuously learning and contributing to impactful projects.
+I’m a passionate full-stack web developer focused on building real-world, scalable applications, with a primary emphasis on the MERN stack and Python, along with working knowledge of Java. I specialize in building responsive frontends, robust backend APIs, and complete web solutions, while using Python for backend services, automation, and intelligent features, and Java for structured, enterprise-style development. I value clean architecture, performance-driven design, and delivering reliable, production-ready applications through continuous learning and practical problem-solving.
 
 
 ## 🌐 Socials:
